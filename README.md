@@ -1,5 +1,8 @@
 # Seccionador Fémur
 
-Identificador de grupos y zonas del fémur en datos ingresados según osteotomía.  
-> Grupos: 6.  
-> Zonas: 4 (lateral, medial, anterior, posterior). 
+Identificador de grupos y zonas del fémur en datos ingresados según osteotomía.    
+| Grupos | Zonas |  
+|-----------|:-----------:|  
+| 6 | 4<br/>lateral, medial, anterior, posterior |  
+  
+> Zonas: lateral, medial, anterior, posterior 
